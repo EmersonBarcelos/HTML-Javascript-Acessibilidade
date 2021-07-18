@@ -1,0 +1,7 @@
+body{
+    background-color: #000;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+  }
+/*Este arquivo css é carregado ao clicar no botão contraste, aqui deve conter essa base do body 
+com o restante da estrutura da sua página*/
