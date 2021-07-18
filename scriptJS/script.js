@@ -1,4 +1,4 @@
-// função de aumento/diminuir fonte
+// função de aumentar/diminuir fonte
 
 window.onload = function() {
     var elementBody = document.querySelector('body');
